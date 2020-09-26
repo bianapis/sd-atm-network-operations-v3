@@ -1,0 +1,11 @@
+{
+  "ATMNetworkOperatingSessionInstanceReference" : "ANOSIR789364",
+  "ATMNetworkOperatingSessionInitiateActionRecord" : {},
+  "ATMNetworkOperatingSessionInitiateActionReference" : "ANOSIAR730257",
+  "ATMNetworkOperatingSessionServiceProviderSchedule" : "ATMNetworkOperatingSessionServiceProviderSchedule",
+  "ATMNetworkOperatingSessionInstanceStatus" : "ATMNetworkOperatingSessionInstanceStatus",
+  "ATMNetworkOperatingSessionServiceProviderReference" : "AOSSR770514",
+  "ATMNetworkOperatingSessionType" : "ATMNetworkOperatingSessionType",
+  "ATMNetworkOperatingSessionReference" : "AOSR711764",
+  "ATMNetworkOperatingSessionServiceType" : "ATMNetworkOperatingSessionServiceType"
+}

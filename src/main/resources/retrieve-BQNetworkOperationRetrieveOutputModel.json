@@ -1,0 +1,25 @@
+{
+  "networkOperationInstanceAnalysis" : {
+    "networkOperationInstanceAnalysisReport" : {},
+    "networkOperationInstanceAnalysisRecord" : {},
+    "networkOperationInstanceAnalysisParameters" : "networkOperationInstanceAnalysisParameters",
+    "networkOperationInstanceAnalysisReportType" : "networkOperationInstanceAnalysisReportType"
+  },
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "networkOperationInstanceReport" : {
+    "networkOperationInstanceReportParameters" : "networkOperationInstanceReportParameters",
+    "networkOperationInstanceReportType" : "networkOperationInstanceReportType",
+    "networkOperationInstanceReport" : {},
+    "networkOperationInstanceReportRecord" : {}
+  },
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "networkOperationRetrieveActionTaskReference" : "NORATR760973",
+  "serviceName" : "serviceName",
+  "networkOperationRetrieveActionTaskRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "financialTransactionCapturePreconditions" : "financialTransactionCapturePreconditions",
+  "networkOperationRetrieveActionResponse" : "networkOperationRetrieveActionResponse",
+  "serviceDescription" : "serviceDescription",
+  "financialTransactionCaptureFunctionSchedule" : "financialTransactionCaptureFunctionSchedule"
+}

@@ -1,0 +1,10 @@
+{
+  "ATMNetworkOperatingSessionServiceProviderSchedule" : "ATMNetworkOperatingSessionServiceProviderSchedule",
+  "updateResponseRecord" : {},
+  "ATMNetworkOperatingSessionServiceProviderReference" : "AOSSR705148",
+  "ATMNetworkOperatingSessionType" : "ATMNetworkOperatingSessionType",
+  "ATMNetworkOperatingSessionUpdateActionTaskReference" : "ANOSUATR761984",
+  "ATMNetworkOperatingSessionReference" : "AOSR775629",
+  "ATMNetworkOperatingSessionUpdateActionTaskRecord" : {},
+  "ATMNetworkOperatingSessionServiceType" : "ATMNetworkOperatingSessionServiceType"
+}

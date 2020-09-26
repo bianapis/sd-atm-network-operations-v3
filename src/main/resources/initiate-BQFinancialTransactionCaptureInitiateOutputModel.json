@@ -1,0 +1,13 @@
+{
+  "deviceTrackingPreconditions" : "deviceTrackingPreconditions",
+  "deviceTrackingServiceType" : "deviceTrackingServiceType",
+  "deviceTrackingServiceName" : "deviceTrackingServiceName",
+  "financialTransactionCaptureInstanceReference" : "FTCIR769420",
+  "financialTransactionCaptureInitiateActionReference" : "FTCIAR723267",
+  "financialTransactionCaptureInitiateActionRecord" : {},
+  "deviceTrackingFunctionSchedule" : "deviceTrackingFunctionSchedule",
+  "deviceTrackingServiceInputsandOuputs" : "deviceTrackingServiceInputsandOuputs",
+  "deviceTrackingServiceDescription" : "deviceTrackingServiceDescription",
+  "deviceTrackingServiceWorkProduct" : "deviceTrackingServiceWorkProduct",
+  "financialTransactionCaptureInstanceStatus" : "financialTransactionCaptureInstanceStatus"
+}

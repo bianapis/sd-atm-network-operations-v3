@@ -1,0 +1,13 @@
+{
+  "networkOperationInitiateActionReference" : "NOIAR764025",
+  "networkOperationInitiateActionRecord" : {},
+  "cashDistributionServiceDescription" : "cashDistributionServiceDescription",
+  "cashDistributionServiceName" : "cashDistributionServiceName",
+  "cashDistributionFunctionSchedule" : "cashDistributionFunctionSchedule",
+  "cashDistributionPreconditions" : "cashDistributionPreconditions",
+  "cashDistributionServiceType" : "cashDistributionServiceType",
+  "networkOperationInstanceStatus" : "networkOperationInstanceStatus",
+  "networkOperationInstanceReference" : "NOIR729405",
+  "cashDistributionServiceWorkProduct" : "cashDistributionServiceWorkProduct",
+  "cashDistributionServiceInputsandOuputs" : "cashDistributionServiceInputsandOuputs"
+}

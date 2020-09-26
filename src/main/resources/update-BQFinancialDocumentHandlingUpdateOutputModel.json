@@ -1,0 +1,13 @@
+{
+  "documentGenerationandHandlingServiceDescription" : "documentGenerationandHandlingServiceDescription",
+  "documentGenerationandHandlingServiceName" : "documentGenerationandHandlingServiceName",
+  "documentGenerationandHandlingServiceWorkProduct" : "documentGenerationandHandlingServiceWorkProduct",
+  "financialDocumentHandlingUpdateActionTaskReference" : "FDHUATR746189",
+  "financialDocumentHandlingUpdateActionTaskRecord" : {},
+  "financialDocumentHandlingFunctionSchedule" : "financialDocumentHandlingFunctionSchedule",
+  "financialDocumentHandlingPreconditions" : "financialDocumentHandlingPreconditions",
+  "updateResponseRecord" : {},
+  "documentGenerationandHandling" : "documentGenerationandHandling",
+  "documentGenerationandHandlingServiceType" : "documentGenerationandHandlingServiceType",
+  "documentGenerationandHandlingServiceInputsandOuputs" : "documentGenerationandHandlingServiceInputsandOuputs"
+}

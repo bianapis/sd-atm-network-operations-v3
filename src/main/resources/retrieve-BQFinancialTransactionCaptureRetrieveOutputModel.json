@@ -1,0 +1,23 @@
+{
+  "networkOperationServiceInputsandOuputs" : "networkOperationServiceInputsandOuputs",
+  "networkOperationPreconditions" : "networkOperationPreconditions",
+  "networkOperationServiceDescription" : "networkOperationServiceDescription",
+  "financialTransactionCaptureInstanceAnalysis" : {
+    "financialTransactionCaptureInstanceAnalysisRecord" : {},
+    "financialTransactionCaptureInstanceAnalysisReportType" : "financialTransactionCaptureInstanceAnalysisReportType",
+    "financialTransactionCaptureInstanceAnalysisReport" : {},
+    "financialTransactionCaptureInstanceAnalysisParameters" : "financialTransactionCaptureInstanceAnalysisParameters"
+  },
+  "networkOperationServiceWorkProduct" : "networkOperationServiceWorkProduct",
+  "networkOperationServiceType" : "networkOperationServiceType",
+  "financialTransactionCaptureRetrieveActionTaskRecord" : {},
+  "networkOperationFunctionSchedule" : "networkOperationFunctionSchedule",
+  "financialTransactionCaptureRetrieveActionTaskReference" : "FTCRATR772458",
+  "financialTransactionCaptureInstanceReport" : {
+    "financialTransactionCaptureInstanceReportType" : "financialTransactionCaptureInstanceReportType",
+    "financialTransactionCaptureInstanceReportParameters" : "financialTransactionCaptureInstanceReportParameters",
+    "financialTransactionCaptureInstanceReport" : {},
+    "financialTransactionCaptureInstanceReportRecord" : {}
+  },
+  "financialTransactionCaptureRetrieveActionResponse" : "financialTransactionCaptureRetrieveActionResponse"
+}

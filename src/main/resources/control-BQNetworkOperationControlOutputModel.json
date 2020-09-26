@@ -1,0 +1,13 @@
+{
+  "networkOperationControlActionTaskReference" : "NOCATR781735",
+  "cashDistributionServiceDescription" : "cashDistributionServiceDescription",
+  "cashDistributionServiceName" : "cashDistributionServiceName",
+  "cashDistributionFunctionSchedule" : "cashDistributionFunctionSchedule",
+  "cashDistributionPreconditions" : "cashDistributionPreconditions",
+  "networkOperationControlActionResponse" : "networkOperationControlActionResponse",
+  "cashDistributionServiceType" : "cashDistributionServiceType",
+  "networkOperationInstanceStatus" : "networkOperationInstanceStatus",
+  "networkOperationControlActionTaskRecord" : {},
+  "cashDistributionServiceWorkProduct" : "cashDistributionServiceWorkProduct",
+  "cashDistributionServiceInputsandOuputs" : "cashDistributionServiceInputsandOuputs"
+}

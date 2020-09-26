@@ -1,0 +1,39 @@
+{
+  "ATMNetworkOperationsRetrieveActionRecord" : {
+    "ATMNetworkOperationsPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "ATMNetworkOperationsActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "ATMNetworkOperationsRetrieveActionResponse" : "ATMNetworkOperationsRetrieveActionResponse",
+  "ATMNetworkOperationsOfferedService" : {
+    "ATMNetworkOperationsServiceReference" : "776158",
+    "ATMNetworkOperationsServiceRecord" : {
+      "ATMNetworkOperationsServiceType" : "ATMNetworkOperationsServiceType",
+      "ATMNetworkOperationsServiceVersion" : "ATMNetworkOperationsServiceVersion",
+      "ATMNetworkOperationsServiceSchedule" : "ATMNetworkOperationsServiceSchedule",
+      "ATMNetworkOperationsServiceDescription" : "ATMNetworkOperationsServiceDescription",
+      "ATMNetworkOperationsServicePoliciesandGuidelines" : {
+        "ATMNetworkOperationsServicePricingandTerms" : "ATMNetworkOperationsServicePricingandTerms",
+        "ATMNetworkOperationsServiceEligibility" : "ATMNetworkOperationsServiceEligibility",
+        "ATMNetworkOperationsServiceIntendedUses" : "ATMNetworkOperationsServiceIntendedUses"
+      }
+    }
+  },
+  "ATMNetworkOperationsRetrieveActionTaskReference" : "SRATR795161",
+  "ATMNetworkOperationsRetrieveActionTaskRecord" : {}
+}

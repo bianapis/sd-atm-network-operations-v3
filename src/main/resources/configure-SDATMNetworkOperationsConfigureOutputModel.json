@@ -1,0 +1,21 @@
+{
+  "ATMNetworkOperationsConfigurationActionTaskReference" : "SCATR765419",
+  "ATMNetworkOperationsServiceConfigurationRecord" : {
+    "ATMNetworkOperationsServiceStatus" : "ATMNetworkOperationsServiceStatus",
+    "ATMNetworkOperationsServiceAgreement" : {
+      "ATMNetworkOperationsServiceAgreementReference" : "721156",
+      "ATMNetworkOperationsServiceAgreementTermsandConditions" : "ATMNetworkOperationsServiceAgreementTermsandConditions",
+      "ATMNetworkOperationsServiceUserReference" : "733696"
+    },
+    "ATMNetworkOperationsServiceConfigurationSetup" : {
+      "ATMNetworkOperationsServiceConfigurationParameter" : "ATMNetworkOperationsServiceConfigurationParameter"
+    },
+    "ATMNetworkOperationsServiceConfigurationSettingDescription" : "ATMNetworkOperationsServiceConfigurationSettingDescription",
+    "ATMNetworkOperationsServiceSubscription" : {
+      "ATMNetworkOperationsServiceSubscriberReference" : "756221",
+      "ATMNetworkOperationsServiceSubscriberAccessProfile" : "ATMNetworkOperationsServiceSubscriberAccessProfile"
+    }
+  },
+  "ATMNetworkOperationsServicingSessionStatus" : "ATMNetworkOperationsServicingSessionStatus",
+  "ATMNetworkOperationsConfigurationActionTaskRecord" : {}
+}

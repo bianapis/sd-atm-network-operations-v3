@@ -1,0 +1,12 @@
+{
+  "cashDistributionServiceDescription" : "cashDistributionServiceDescription",
+  "cashDistributionServiceName" : "cashDistributionServiceName",
+  "cashDistributionFunctionSchedule" : "cashDistributionFunctionSchedule",
+  "cashDistributionPreconditions" : "cashDistributionPreconditions",
+  "updateResponseRecord" : {},
+  "cashDistributionServiceType" : "cashDistributionServiceType",
+  "cashDistributionServiceWorkProduct" : "cashDistributionServiceWorkProduct",
+  "networkOperationUpdateActionTaskReference" : "NOUATR761432",
+  "cashDistributionServiceInputsandOuputs" : "cashDistributionServiceInputsandOuputs",
+  "networkOperationUpdateActionTaskRecord" : {}
+}

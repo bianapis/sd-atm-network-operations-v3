@@ -1,0 +1,12 @@
+{
+  "networkOperationServiceInputsandOuputs" : "networkOperationServiceInputsandOuputs",
+  "networkOperationPreconditions" : "networkOperationPreconditions",
+  "networkOperationServiceDescription" : "networkOperationServiceDescription",
+  "networkOperationServiceWorkProduct" : "networkOperationServiceWorkProduct",
+  "financialTransactionCaptureExchangeActionTaskRecord" : {},
+  "networkOperationServiceType" : "networkOperationServiceType",
+  "networkOperationFunctionSchedule" : "networkOperationFunctionSchedule",
+  "financialTransactionCaptureExchangeActionTaskReference" : "FTCEATR758832",
+  "financialTransactionCaptureExchangeActionResponse" : "financialTransactionCaptureExchangeActionResponse",
+  "financialTransactionCaptureInstanceStatus" : "financialTransactionCaptureInstanceStatus"
+}

@@ -1,0 +1,13 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "financialTransactionCapturePreconditions" : "financialTransactionCapturePreconditions",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "deviceTrackingUpdateActionTaskReference" : "DTUATR779895",
+  "updateResponseRecord" : {},
+  "serviceDescription" : "serviceDescription",
+  "financialTransactionCaptureFunctionSchedule" : "financialTransactionCaptureFunctionSchedule",
+  "serviceName" : "serviceName",
+  "deviceTrackingUpdateActionTaskRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

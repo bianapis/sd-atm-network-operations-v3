@@ -1,0 +1,24 @@
+{
+  "deviceTrackingPreconditions" : "deviceTrackingPreconditions",
+  "deviceTrackingServiceType" : "deviceTrackingServiceType",
+  "deviceTrackingRetrieveActionTaskReference" : "DTRATR729498",
+  "deviceTrackingServiceName" : "deviceTrackingServiceName",
+  "deviceTrackingInstanceAnalysis" : {
+    "deviceTrackingInstanceAnalysisParameters" : "deviceTrackingInstanceAnalysisParameters",
+    "deviceTrackingInstanceAnalysisReport" : {},
+    "deviceTrackingInstanceAnalysisRecord" : {},
+    "deviceTrackingInstanceAnalysisReportType" : "deviceTrackingInstanceAnalysisReportType"
+  },
+  "deviceTrackingFunctionSchedule" : "deviceTrackingFunctionSchedule",
+  "deviceTrackingRetrieveActionResponse" : "deviceTrackingRetrieveActionResponse",
+  "deviceTrackingServiceInputsandOuputs" : "deviceTrackingServiceInputsandOuputs",
+  "deviceTrackingServiceDescription" : "deviceTrackingServiceDescription",
+  "deviceTrackingRetrieveActionTaskRecord" : {},
+  "deviceTrackingServiceWorkProduct" : "deviceTrackingServiceWorkProduct",
+  "deviceTrackingInstanceReport" : {
+    "deviceTrackingInstanceReportRecord" : {},
+    "deviceTrackingInstanceReportType" : "deviceTrackingInstanceReportType",
+    "deviceTrackingInstanceReportParameters" : "deviceTrackingInstanceReportParameters",
+    "deviceTrackingInstanceReport" : {}
+  }
+}

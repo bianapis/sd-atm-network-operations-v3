@@ -1,0 +1,24 @@
+{
+  "ATMNetworkOperatingSessionUsageLog" : "ATMNetworkOperatingSessionUsageLog",
+  "ATMNetworkOperatingSessionServiceConfiguration" : "ATMNetworkOperatingSessionServiceConfiguration",
+  "ATMNetworkOperatingSessionType" : "ATMNetworkOperatingSessionType",
+  "ATMNetworkOperatingSessionRetrieveActionTaskRecord" : {},
+  "ATMNetworkOperatingSessionServiceType" : "ATMNetworkOperatingSessionServiceType",
+  "ATMNetworkOperatingSessionInstanceReportRecord" : {
+    "ATMNetworkOperatingSessionInstanceReportType" : "ATMNetworkOperatingSessionInstanceReportType",
+    "ATMNetworkOperatingSessionInstanceReport" : {},
+    "ATMNetworkOperatingSessionInstanceReportData" : "ATMNetworkOperatingSessionInstanceReportData"
+  },
+  "ATMNetworkOperatingSessionRetrieveActionTaskReference" : "ANOSRATR740544",
+  "ATMNetworkOperatingSessionInstanceAnalysis" : {
+    "ATMNetworkOperatingSessionInstanceAnalysisData" : "ATMNetworkOperatingSessionInstanceAnalysisData",
+    "ATMNetworkOperatingSessionInstanceAnalysisReportType" : "ATMNetworkOperatingSessionInstanceAnalysisReportType",
+    "ATMNetworkOperatingSessionInstanceAnalysisReport" : {}
+  },
+  "ATMNetworkOperatingSessionRetrieveActionResponse" : "ATMNetworkOperatingSessionRetrieveActionResponse",
+  "ATMNetworkOperatingSessionServiceProviderSchedule" : "ATMNetworkOperatingSessionServiceProviderSchedule",
+  "ATMNetworkOperatingSessionSchedule" : "ATMNetworkOperatingSessionSchedule",
+  "ATMNetworkOperatingSessionServiceProviderReference" : "AOSSR755598",
+  "ATMNetworkOperatingSessionStatus" : "ATMNetworkOperatingSessionStatus",
+  "ATMNetworkOperatingSessionReference" : "AOSR785009"
+}

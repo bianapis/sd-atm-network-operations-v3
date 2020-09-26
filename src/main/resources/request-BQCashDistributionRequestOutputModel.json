@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "financialTransactionCapturePreconditions" : "financialTransactionCapturePreconditions",
+  "cashDistributionRequestActionTaskRecord" : {},
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "cashDistributionRequestActionTaskReference" : "CDRATR795835",
+  "cashDistributionRequestRecordReference" : "CDRRR702157",
+  "serviceDescription" : "serviceDescription",
+  "financialTransactionCaptureFunctionSchedule" : "financialTransactionCaptureFunctionSchedule",
+  "serviceName" : "serviceName",
+  "requestResponseRecord" : {},
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

@@ -1,0 +1,13 @@
+{
+  "deviceTrackingPreconditions" : "deviceTrackingPreconditions",
+  "deviceTrackingServiceType" : "deviceTrackingServiceType",
+  "deviceTrackingServiceName" : "deviceTrackingServiceName",
+  "deviceTrackingExchangeActionTaskReference" : "DTEATR732974",
+  "deviceTrackingFunctionSchedule" : "deviceTrackingFunctionSchedule",
+  "deviceTrackingExchangeActionResponse" : "deviceTrackingExchangeActionResponse",
+  "deviceTrackingServiceInputsandOuputs" : "deviceTrackingServiceInputsandOuputs",
+  "deviceTrackingServiceDescription" : "deviceTrackingServiceDescription",
+  "deviceTrackingServiceWorkProduct" : "deviceTrackingServiceWorkProduct",
+  "deviceTrackingExchangeActionTaskRecord" : {},
+  "deviceTrackingInstanceStatus" : "deviceTrackingInstanceStatus"
+}

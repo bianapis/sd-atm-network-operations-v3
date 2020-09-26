@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "financialTransactionCapturePreconditions" : "financialTransactionCapturePreconditions",
+  "cashDistributionExchangeActionTaskReference" : "CDEATR765600",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "cashDistributionExchangeActionTaskRecord" : {},
+  "serviceDescription" : "serviceDescription",
+  "cashDistributionInstanceStatus" : "cashDistributionInstanceStatus",
+  "financialTransactionCaptureFunctionSchedule" : "financialTransactionCaptureFunctionSchedule",
+  "serviceName" : "serviceName",
+  "cashDistributionExchangeActionResponse" : "cashDistributionExchangeActionResponse",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

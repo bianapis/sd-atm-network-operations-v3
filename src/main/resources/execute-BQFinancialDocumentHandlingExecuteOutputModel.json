@@ -1,0 +1,14 @@
+{
+  "documentGenerationandHandlingServiceDescription" : "documentGenerationandHandlingServiceDescription",
+  "documentGenerationandHandlingServiceName" : "documentGenerationandHandlingServiceName",
+  "financialDocumentHandlingExecuteRecordReference" : "FDHERR772747",
+  "documentGenerationandHandlingServiceWorkProduct" : "documentGenerationandHandlingServiceWorkProduct",
+  "financialDocumentHandlingExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "financialDocumentHandlingFunctionSchedule" : "financialDocumentHandlingFunctionSchedule",
+  "financialDocumentHandlingPreconditions" : "financialDocumentHandlingPreconditions",
+  "documentGenerationandHandling" : "documentGenerationandHandling",
+  "financialDocumentHandlingExecuteActionTaskReference" : "FDHEATR744596",
+  "documentGenerationandHandlingServiceType" : "documentGenerationandHandlingServiceType",
+  "documentGenerationandHandlingServiceInputsandOuputs" : "documentGenerationandHandlingServiceInputsandOuputs"
+}

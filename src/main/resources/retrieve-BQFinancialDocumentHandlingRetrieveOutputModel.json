@@ -1,0 +1,25 @@
+{
+  "documentGenerationandHandlingServiceDescription" : "documentGenerationandHandlingServiceDescription",
+  "financialDocumentHandlingRetrieveActionResponse" : "financialDocumentHandlingRetrieveActionResponse",
+  "documentGenerationandHandling" : "documentGenerationandHandling",
+  "documentGenerationandHandlingServiceType" : "documentGenerationandHandlingServiceType",
+  "documentGenerationandHandlingServiceName" : "documentGenerationandHandlingServiceName",
+  "financialDocumentHandlingRetrieveActionTaskReference" : "FDHRATR785549",
+  "documentGenerationandHandlingServiceWorkProduct" : "documentGenerationandHandlingServiceWorkProduct",
+  "financialDocumentHandlingInstanceReport" : {
+    "financialDocumentHandlingInstanceReport" : {},
+    "financialDocumentHandlingInstanceReportRecord" : {},
+    "financialDocumentHandlingInstanceReportType" : "financialDocumentHandlingInstanceReportType",
+    "financialDocumentHandlingInstanceReportParameters" : "financialDocumentHandlingInstanceReportParameters"
+  },
+  "financialDocumentHandlingFunctionSchedule" : "financialDocumentHandlingFunctionSchedule",
+  "financialDocumentHandlingRetrieveActionTaskRecord" : {},
+  "financialDocumentHandlingPreconditions" : "financialDocumentHandlingPreconditions",
+  "financialDocumentHandlingInstanceAnalysis" : {
+    "financialDocumentHandlingInstanceAnalysisReport" : {},
+    "financialDocumentHandlingInstanceAnalysisRecord" : {},
+    "financialDocumentHandlingInstanceAnalysisParameters" : "financialDocumentHandlingInstanceAnalysisParameters",
+    "financialDocumentHandlingInstanceAnalysisReportType" : "financialDocumentHandlingInstanceAnalysisReportType"
+  },
+  "documentGenerationandHandlingServiceInputsandOuputs" : "documentGenerationandHandlingServiceInputsandOuputs"
+}

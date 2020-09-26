@@ -1,0 +1,25 @@
+{
+  "serviceType" : "serviceType",
+  "cashDistributionRetrieveActionTaskRecord" : {},
+  "businessService" : "businessService",
+  "cashDistributionInstanceAnalysis" : {
+    "cashDistributionInstanceAnalysisParameters" : "cashDistributionInstanceAnalysisParameters",
+    "cashDistributionInstanceAnalysisReport" : {},
+    "cashDistributionInstanceAnalysisRecord" : {},
+    "cashDistributionInstanceAnalysisReportType" : "cashDistributionInstanceAnalysisReportType"
+  },
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "cashDistributionRetrieveActionTaskReference" : "CDRATR706711",
+  "serviceName" : "serviceName",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "cashDistributionInstanceReport" : {
+    "cashDistributionInstanceReport" : {},
+    "cashDistributionInstanceReportType" : "cashDistributionInstanceReportType",
+    "cashDistributionInstanceReportParameters" : "cashDistributionInstanceReportParameters",
+    "cashDistributionInstanceReportRecord" : {}
+  },
+  "financialTransactionCapturePreconditions" : "financialTransactionCapturePreconditions",
+  "serviceDescription" : "serviceDescription",
+  "cashDistributionRetrieveActionResponse" : "cashDistributionRetrieveActionResponse",
+  "financialTransactionCaptureFunctionSchedule" : "financialTransactionCaptureFunctionSchedule"
+}
